@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 blinker==1.9.0
 click==8.3.1
 colorama==0.4.6
@@ -6,3 +7,11 @@ itsdangerous==2.2.0
 Jinja2==3.1.6
 MarkupSafe==3.0.3
 Werkzeug==3.1.7
+=======
+colorama==0.4.6
+iniconfig==2.3.0
+packaging==26.0
+pluggy==1.6.0
+Pygments==2.20.0
+pytest==9.0.2
+>>>>>>> 310e9395ebc4de75961ccc71c6da2d8bb2a8dad6

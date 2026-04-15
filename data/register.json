@@ -1,0 +1,541 @@
+[
+    {
+        "fecha": "01-02-2026",
+        "zona": "Este",
+        "temperatura": 30.0,
+        "humedad": 20.0,
+        "viento": 12.0
+    },
+    {
+        "fecha": "08-04-2026",
+        "zona": "Centro",
+        "temperatura": 20.0,
+        "humedad": 10.0,
+        "viento": 15.0
+    },
+    {
+        "fecha": "15-01-2024",
+        "zona": "Norte",
+        "temperatura": 2.5,
+        "humedad": 75.0,
+        "viento": 18.5
+    },
+    {
+        "fecha": "15-01-2024",
+        "zona": "Centro",
+        "temperatura": 4.0,
+        "humedad": 70.0,
+        "viento": 12.0
+    },
+    {
+        "fecha": "22-07-2023",
+        "zona": "Sur",
+        "temperatura": 39.5,
+        "humedad": 15.0,
+        "viento": 10.5
+    },
+    {
+        "fecha": "22-07-2023",
+        "zona": "Este",
+        "temperatura": 38.0,
+        "humedad": 18.0,
+        "viento": 15.0
+    },
+    {
+        "fecha": "10-03-2025",
+        "zona": "Oeste",
+        "temperatura": 14.2,
+        "humedad": 55.0,
+        "viento": 22.0
+    },
+    {
+        "fecha": "05-12-2022",
+        "zona": "Norte",
+        "temperatura": -2.0,
+        "humedad": 80.0,
+        "viento": 35.0
+    },
+    {
+        "fecha": "18-08-2024",
+        "zona": "Centro",
+        "temperatura": 36.8,
+        "humedad": 22.0,
+        "viento": 8.0
+    },
+    {
+        "fecha": "12-04-2021",
+        "zona": "Sur",
+        "temperatura": 19.5,
+        "humedad": 45.0,
+        "viento": 25.4
+    },
+    {
+        "fecha": "30-10-2023",
+        "zona": "Este",
+        "temperatura": 12.0,
+        "humedad": 85.0,
+        "viento": 40.0
+    },
+    {
+        "fecha": "14-02-2025",
+        "zona": "Oeste",
+        "temperatura": 8.5,
+        "humedad": 60.0,
+        "viento": 14.2
+    },
+    {
+        "fecha": "25-06-2022",
+        "zona": "Centro",
+        "temperatura": 31.0,
+        "humedad": 30.0,
+        "viento": 11.5
+    },
+    {
+        "fecha": "08-01-2021",
+        "zona": "Norte",
+        "temperatura": -8.4,
+        "humedad": 90.0,
+        "viento": 45.0
+    },
+    {
+        "fecha": "19-05-2024",
+        "zona": "Sur",
+        "temperatura": 25.6,
+        "humedad": 40.0,
+        "viento": 18.0
+    },
+    {
+        "fecha": "03-09-2023",
+        "zona": "Este",
+        "temperatura": 22.0,
+        "humedad": 95.0,
+        "viento": 65.0
+    },
+    {
+        "fecha": "21-11-2024",
+        "zona": "Oeste",
+        "temperatura": 10.1,
+        "humedad": 72.0,
+        "viento": 20.0
+    },
+    {
+        "fecha": "12-07-2024",
+        "zona": "Norte",
+        "temperatura": 34.2,
+        "humedad": 20.0,
+        "viento": 15.5
+    },
+    {
+        "fecha": "05-05-2023",
+        "zona": "Centro",
+        "temperatura": 24.5,
+        "humedad": 38.0,
+        "viento": 13.0
+    },
+    {
+        "fecha": "28-12-2021",
+        "zona": "Sur",
+        "temperatura": 5.2,
+        "humedad": 65.0,
+        "viento": 9.0
+    },
+    {
+        "fecha": "17-06-2025",
+        "zona": "Este",
+        "temperatura": 29.8,
+        "humedad": 28.0,
+        "viento": 14.5
+    },
+    {
+        "fecha": "09-02-2024",
+        "zona": "Oeste",
+        "temperatura": 6.7,
+        "humedad": 78.0,
+        "viento": 30.0
+    },
+    {
+        "fecha": "12-11-2021",
+        "zona": "Centro",
+        "temperatura": 9.5,
+        "humedad": 62.0,
+        "viento": 5.4
+    },
+    {
+        "fecha": "04-08-2023",
+        "zona": "Sur",
+        "temperatura": 41.2,
+        "humedad": 12.0,
+        "viento": 8.0
+    },
+    {
+        "fecha": "20-01-2022",
+        "zona": "Norte",
+        "temperatura": -3.5,
+        "humedad": 88.0,
+        "viento": 12.5
+    },
+    {
+        "fecha": "15-05-2024",
+        "zona": "Este",
+        "temperatura": 22.4,
+        "humedad": 45.0,
+        "viento": 14.0
+    },
+    {
+        "fecha": "30-09-2023",
+        "zona": "Oeste",
+        "temperatura": 18.9,
+        "humedad": 50.0,
+        "viento": 25.6
+    },
+    {
+        "fecha": "11-02-2021",
+        "zona": "Centro",
+        "temperatura": 7.1,
+        "humedad": 74.0,
+        "viento": 32.0
+    },
+    {
+        "fecha": "25-12-2024",
+        "zona": "Sur",
+        "temperatura": 4.8,
+        "humedad": 82.0,
+        "viento": 10.2
+    },
+    {
+        "fecha": "14-07-2022",
+        "zona": "Norte",
+        "temperatura": 35.6,
+        "humedad": 19.0,
+        "viento": 20.5
+    },
+    {
+        "fecha": "02-03-2025",
+        "zona": "Este",
+        "temperatura": 13.4,
+        "humedad": 58.0,
+        "viento": 15.8
+    },
+    {
+        "fecha": "19-10-2023",
+        "zona": "Oeste",
+        "temperatura": 16.2,
+        "humedad": 65.0,
+        "viento": 11.0
+    },
+    {
+        "fecha": "08-06-2024",
+        "zona": "Centro",
+        "temperatura": 28.5,
+        "humedad": 33.0,
+        "viento": 9.5
+    },
+    {
+        "fecha": "22-01-2021",
+        "zona": "Sur",
+        "temperatura": -1.2,
+        "humedad": 92.0,
+        "viento": 45.0
+    },
+    {
+        "fecha": "17-04-2023",
+        "zona": "Norte",
+        "temperatura": 15.8,
+        "humedad": 42.0,
+        "viento": 28.4
+    },
+    {
+        "fecha": "29-08-2025",
+        "zona": "Este",
+        "temperatura": 32.1,
+        "humedad": 25.0,
+        "viento": 7.0
+    },
+    {
+        "fecha": "05-11-2022",
+        "zona": "Oeste",
+        "temperatura": 11.3,
+        "humedad": 77.0,
+        "viento": 19.2
+    },
+    {
+        "fecha": "13-02-2024",
+        "zona": "Centro",
+        "temperatura": 8.4,
+        "humedad": 68.0,
+        "viento": 14.5
+    },
+    {
+        "fecha": "26-07-2021",
+        "zona": "Sur",
+        "temperatura": 37.9,
+        "humedad": 14.0,
+        "viento": 11.2
+    },
+    {
+        "fecha": "09-12-2023",
+        "zona": "Norte",
+        "temperatura": 2.1,
+        "humedad": 85.0,
+        "viento": 38.0
+    },
+    {
+        "fecha": "21-05-2022",
+        "zona": "Este",
+        "temperatura": 24.0,
+        "humedad": 35.0,
+        "viento": 16.0
+    },
+    {
+        "fecha": "10-01-2025",
+        "zona": "Oeste",
+        "temperatura": 5.5,
+        "humedad": 70.0,
+        "viento": 22.3
+    },
+    {
+        "fecha": "18-03-2024",
+        "zona": "Centro",
+        "temperatura": 17.2,
+        "humedad": 48.0,
+        "viento": 13.4
+    },
+    {
+        "fecha": "03-07-2023",
+        "zona": "Sur",
+        "temperatura": 33.4,
+        "humedad": 27.0,
+        "viento": 18.0
+    },
+    {
+        "fecha": "14-11-2021",
+        "zona": "Norte",
+        "temperatura": 6.8,
+        "humedad": 80.0,
+        "viento": 21.0
+    },
+    {
+        "fecha": "27-04-2025",
+        "zona": "Este",
+        "temperatura": 19.7,
+        "humedad": 52.0,
+        "viento": 24.5
+    },
+    {
+        "fecha": "01-09-2022",
+        "zona": "Oeste",
+        "temperatura": 26.3,
+        "humedad": 31.0,
+        "viento": 12.8
+    },
+    {
+        "fecha": "16-12-2024",
+        "zona": "Centro",
+        "temperatura": 3.9,
+        "humedad": 79.0,
+        "viento": 17.2
+    },
+    {
+        "fecha": "28-06-2021",
+        "zona": "Sur",
+        "temperatura": 30.2,
+        "humedad": 38.0,
+        "viento": 9.0
+    },
+    {
+        "fecha": "07-10-2023",
+        "zona": "Norte",
+        "temperatura": 14.5,
+        "humedad": 66.0,
+        "viento": 13.5
+    },
+    {
+        "fecha": "12-02-2022",
+        "zona": "Este",
+        "temperatura": 9.2,
+        "humedad": 60.0,
+        "viento": 30.4
+    },
+    {
+        "fecha": "23-08-2024",
+        "zona": "Oeste",
+        "temperatura": 34.8,
+        "humedad": 18.0,
+        "viento": 10.0
+    },
+    {
+        "fecha": "05-07-2024",
+        "zona": "Centro",
+        "temperatura": 37.2,
+        "humedad": 18.0,
+        "viento": 10.5
+    },
+    {
+        "fecha": "12-01-2023",
+        "zona": "Norte",
+        "temperatura": -4.8,
+        "humedad": 85.0,
+        "viento": 22.4
+    },
+    {
+        "fecha": "20-10-2022",
+        "zona": "Sur",
+        "temperatura": 19.5,
+        "humedad": 65.0,
+        "viento": 30.2
+    },
+    {
+        "fecha": "14-04-2021",
+        "zona": "Este",
+        "temperatura": 16.8,
+        "humedad": 55.0,
+        "viento": 45.6
+    },
+    {
+        "fecha": "03-09-2025",
+        "zona": "Oeste",
+        "temperatura": 28.4,
+        "humedad": 30.0,
+        "viento": 12.0
+    },
+    {
+        "fecha": "28-02-2024",
+        "zona": "Centro",
+        "temperatura": 11.2,
+        "humedad": 72.0,
+        "viento": 18.9
+    },
+    {
+        "fecha": "15-08-2021",
+        "zona": "Sur",
+        "temperatura": 42.5,
+        "humedad": 10.0,
+        "viento": 7.5
+    },
+    {
+        "fecha": "22-12-2023",
+        "zona": "Norte",
+        "temperatura": 1.5,
+        "humedad": 90.0,
+        "viento": 15.2
+    },
+    {
+        "fecha": "10-06-2022",
+        "zona": "Este",
+        "temperatura": 31.0,
+        "humedad": 25.0,
+        "viento": 13.4
+    },
+    {
+        "fecha": "05-11-2024",
+        "zona": "Oeste",
+        "temperatura": 13.7,
+        "humedad": 78.0,
+        "viento": 28.1
+    },
+    {
+        "fecha": "19-03-2023",
+        "zona": "Centro",
+        "temperatura": 18.1,
+        "humedad": 42.0,
+        "viento": 11.0
+    },
+    {
+        "fecha": "07-07-2025",
+        "zona": "Sur",
+        "temperatura": 39.8,
+        "humedad": 14.0,
+        "viento": 9.2
+    },
+    {
+        "fecha": "25-01-2022",
+        "zona": "Norte",
+        "temperatura": -2.3,
+        "humedad": 82.0,
+        "viento": 40.5
+    },
+    {
+        "fecha": "11-05-2021",
+        "zona": "Este",
+        "temperatura": 24.6,
+        "humedad": 38.0,
+        "viento": 17.3
+    },
+    {
+        "fecha": "30-10-2024",
+        "zona": "Oeste",
+        "temperatura": 15.4,
+        "humedad": 60.0,
+        "viento": 22.8
+    },
+    {
+        "fecha": "02-02-2023",
+        "zona": "Centro",
+        "temperatura": 8.9,
+        "humedad": 68.0,
+        "viento": 14.7
+    },
+    {
+        "fecha": "18-07-2024",
+        "zona": "Sur",
+        "temperatura": 36.5,
+        "humedad": 22.0,
+        "viento": 11.1
+    },
+    {
+        "fecha": "09-12-2021",
+        "zona": "Norte",
+        "temperatura": 3.4,
+        "humedad": 88.0,
+        "viento": 35.0
+    },
+    {
+        "fecha": "21-04-2022",
+        "zona": "Este",
+        "temperatura": 20.2,
+        "humedad": 48.0,
+        "viento": 19.5
+    },
+    {
+        "fecha": "10-09-2023",
+        "zona": "Oeste",
+        "temperatura": 26.7,
+        "humedad": 35.0,
+        "viento": 13.6
+    },
+    {
+        "fecha": "05-03-2025",
+        "zona": "Centro",
+        "temperatura": 14.3,
+        "humedad": 52.0,
+        "viento": 25.4
+    },
+    {
+        "fecha": "12-08-2022",
+        "zona": "Sur",
+        "temperatura": 38.9,
+        "humedad": 15.0,
+        "viento": 8.8
+    },
+    {
+        "fecha": "28-01-2024",
+        "zona": "Norte",
+        "temperatura": -6.1,
+        "humedad": 75.0,
+        "viento": 18.2
+    },
+    {
+        "fecha": "15-06-2021",
+        "zona": "Este",
+        "temperatura": 29.5,
+        "humedad": 28.0,
+        "viento": 14.1
+    },
+    {
+        "fecha": "02-07-2022",
+        "zona": "Centro",
+        "temperatura": 22.0,
+        "humedad": 11.0,
+        "viento": 21.0
+    }
+]
