@@ -32,10 +32,6 @@
 
       <form id="weatherForm" action="{{ url_for('guardar_datos') }}" method="POST">
 
-        <div class="form-group">
-          <label for="fecha">Fecha</label>
-          <input type="date" id="fecha" name="fecha" required>
-        </div>
 
         <div class="form-group">
           <label for="zona">Zona ciudad</label>
@@ -49,28 +45,6 @@
           </select>
         </div>
 
-        <div class="form-group">
-          <label for="temperatura">Temperatura (ºC)</label>
-          <input type="number" id="temperatura" name="temperatura" step="0.1" required>
-        </div>
-
-        <div class="form-group">
-          <label for="humedad">Humedad (%)</label>
-          <input type="number" id="humedad" name="humedad" min="0" max="100" required>
-        </div>
-
-        <div class="form-group">
-          <label for="viento">Viento (km/h)</label>
-          <input type="number" id="viento" name="viento" step="0.1" required>
-        </div>
-
-        <div class="form-group">
-          <label for="lluvia">Lluvia (mm)</label>
-          <input type="number" id="lluvia" name="lluvia" step="0.1" required>
-        </div>
-
-        <button type="submit" class="btn-primary">Guardar datos</button>
-      </form>
 
       <div class="actions">
         <a href="{{ url_for('consulta') }}" class="btn-secondary">Consultar por zona</a>

@@ -252,3 +252,38 @@
 2026-04-15 20:59:52,167 - INFO - 127.0.0.1 - - [15/Apr/2026 20:59:52] "[32mGET /logout HTTP/1.1[0m" 302 -
 2026-04-15 20:59:52,170 - INFO - 127.0.0.1 - - [15/Apr/2026 20:59:52] "GET / HTTP/1.1" 200 -
 2026-04-15 20:59:52,182 - INFO - 127.0.0.1 - - [15/Apr/2026 20:59:52] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-04-15 21:03:10,756 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-15 21:03:10,756 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-15 21:03:10,757 - INFO -  * Restarting with stat
+2026-04-15 21:03:11,632 - WARNING -  * Debugger is active!
+2026-04-15 21:03:11,634 - INFO -  * Debugger PIN: 126-655-920
+2026-04-15 21:03:11,665 - INFO - 127.0.0.1 - - [15/Apr/2026 21:03:11] "[32mGET /interfaz_tiempo HTTP/1.1[0m" 302 -
+2026-04-15 21:03:11,672 - INFO - 127.0.0.1 - - [15/Apr/2026 21:03:11] "GET /auth/login HTTP/1.1" 200 -
+2026-04-15 21:03:11,725 - INFO - 127.0.0.1 - - [15/Apr/2026 21:03:11] "[36mGET /static/css/login_style.css HTTP/1.1[0m" 304 -
+2026-04-15 21:03:11,726 - INFO - 127.0.0.1 - - [15/Apr/2026 21:03:11] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+2026-04-15 21:03:16,445 - INFO - 127.0.0.1 - - [15/Apr/2026 21:03:16] "[33mGET /ç HTTP/1.1[0m" 404 -
+2026-04-15 21:03:19,090 - INFO - 127.0.0.1 - - [15/Apr/2026 21:03:19] "GET / HTTP/1.1" 200 -
+2026-04-15 21:03:19,098 - INFO - 127.0.0.1 - - [15/Apr/2026 21:03:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-04-15 21:03:20,751 - INFO - 127.0.0.1 - - [15/Apr/2026 21:03:20] "GET /auth/register HTTP/1.1" 200 -
+2026-04-15 21:03:20,766 - INFO - 127.0.0.1 - - [15/Apr/2026 21:03:20] "[36mGET /static/css/registro_style.css HTTP/1.1[0m" 304 -
+2026-04-15 21:03:36,785 - INFO - 127.0.0.1 - - [15/Apr/2026 21:03:36] "[32mPOST /auth/register HTTP/1.1[0m" 302 -
+2026-04-15 21:03:36,788 - INFO - 127.0.0.1 - - [15/Apr/2026 21:03:36] "GET /auth/login HTTP/1.1" 200 -
+2026-04-15 21:03:36,805 - INFO - 127.0.0.1 - - [15/Apr/2026 21:03:36] "[36mGET /static/css/login_style.css HTTP/1.1[0m" 304 -
+2026-04-15 21:03:36,806 - INFO - 127.0.0.1 - - [15/Apr/2026 21:03:36] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+2026-04-15 21:03:57,497 - INFO - 127.0.0.1 - - [15/Apr/2026 21:03:57] "[32mPOST /auth/login HTTP/1.1[0m" 302 -
+2026-04-15 21:03:57,503 - INFO - 127.0.0.1 - - [15/Apr/2026 21:03:57] "GET /interfaz_tiempo HTTP/1.1" 200 -
+2026-04-15 21:03:57,520 - INFO - 127.0.0.1 - - [15/Apr/2026 21:03:57] "[36mGET /static/css/tiempo_style.css HTTP/1.1[0m" 304 -
+2026-04-15 21:03:57,521 - INFO - 127.0.0.1 - - [15/Apr/2026 21:03:57] "[36mGET /static/js/weather.js HTTP/1.1[0m" 304 -
+2026-04-15 21:07:22,198 - INFO - 127.0.0.1 - - [15/Apr/2026 21:07:22] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-04-15 21:07:22,201 - INFO - 127.0.0.1 - - [15/Apr/2026 21:07:22] "GET / HTTP/1.1" 200 -
+2026-04-15 21:07:22,214 - INFO - 127.0.0.1 - - [15/Apr/2026 21:07:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-04-15 21:07:28,237 - INFO - 127.0.0.1 - - [15/Apr/2026 21:07:28] "GET /auth/login HTTP/1.1" 200 -
+2026-04-15 21:07:28,252 - INFO - 127.0.0.1 - - [15/Apr/2026 21:07:28] "[36mGET /static/css/login_style.css HTTP/1.1[0m" 304 -
+2026-04-15 21:07:28,255 - INFO - 127.0.0.1 - - [15/Apr/2026 21:07:28] "[36mGET /static/js/auth.js HTTP/1.1[0m" 304 -
+2026-04-15 21:07:34,137 - INFO - 127.0.0.1 - - [15/Apr/2026 21:07:34] "[32mPOST /auth/login HTTP/1.1[0m" 302 -
+2026-04-15 21:07:34,141 - INFO - 127.0.0.1 - - [15/Apr/2026 21:07:34] "GET /interfaz_tiempo HTTP/1.1" 200 -
+2026-04-15 21:07:34,159 - INFO - 127.0.0.1 - - [15/Apr/2026 21:07:34] "[36mGET /static/css/tiempo_style.css HTTP/1.1[0m" 304 -
+2026-04-15 21:07:34,160 - INFO - 127.0.0.1 - - [15/Apr/2026 21:07:34] "[36mGET /static/js/weather.js HTTP/1.1[0m" 304 -
+2026-04-15 21:24:10,500 - INFO - 127.0.0.1 - - [15/Apr/2026 21:24:10] "GET / HTTP/1.1" 200 -
+2026-04-15 21:24:10,508 - INFO - 127.0.0.1 - - [15/Apr/2026 21:24:10] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
