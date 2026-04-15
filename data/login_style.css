@@ -1,0 +1,50 @@
+.container {
+    max-width: 300 px;  /* Le damos un ancho máximo para que no se estire de más */
+    margin-left: auto; /* Estos dos "auto" centran la caja horizontalmente */
+    margin-right: auto;
+    padding: 20px;     /* Espacio por dentro para que el texto no toque los bordes */
+}
+.mt-5 {
+    margin-top: 3rem; /* "rem" es una medida que equivale a unos 48px aprox. */
+}
+
+body {
+    font-family: Arial, sans-serif; 
+    background-color: #d7ebed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+
+form {
+    background: white;
+    padding: 2rem;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(57, 149, 157, 0.873);
+    width: 300px;
+}
+
+
+label, input {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4299a1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #1c6d74;
+}
