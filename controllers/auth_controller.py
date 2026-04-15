@@ -3,7 +3,7 @@ import os
 import re
 import hashlib
 
-class AuthManager:
+class AuthController:
     def __init__(self):
         # Configuramos la ruta al inicializar el objeto
         self.base_dir = os.path.dirname(os.path.abspath(__file__))
