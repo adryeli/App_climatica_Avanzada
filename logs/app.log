@@ -1,0 +1,30 @@
+2026-04-15 16:15:42,465 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-15 16:15:42,465 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-15 16:15:42,466 - INFO -  * Restarting with stat
+2026-04-15 16:15:43,285 - WARNING -  * Debugger is active!
+2026-04-15 16:15:43,287 - INFO -  * Debugger PIN: 126-655-920
+2026-04-15 16:16:19,251 - INFO - 127.0.0.1 - - [15/Apr/2026 16:16:19] "GET / HTTP/1.1" 200 -
+2026-04-15 16:16:19,271 - INFO - 127.0.0.1 - - [15/Apr/2026 16:16:19] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2026-04-15 16:16:19,320 - INFO - 127.0.0.1 - - [15/Apr/2026 16:16:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-15 16:24:12,769 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-15 16:24:12,770 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-15 16:24:12,771 - INFO -  * Restarting with stat
+2026-04-15 16:24:13,559 - WARNING -  * Debugger is active!
+2026-04-15 16:24:13,561 - INFO -  * Debugger PIN: 126-655-920
+2026-04-15 16:24:16,240 - INFO - 127.0.0.1 - - [15/Apr/2026 16:24:16] "GET / HTTP/1.1" 200 -
+2026-04-15 16:24:16,253 - INFO - 127.0.0.1 - - [15/Apr/2026 16:24:16] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2026-04-15 16:24:17,316 - INFO - 127.0.0.1 - - [15/Apr/2026 16:24:17] "GET / HTTP/1.1" 200 -
+2026-04-15 16:24:17,329 - INFO - 127.0.0.1 - - [15/Apr/2026 16:24:17] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2026-04-15 16:24:19,444 - INFO - 127.0.0.1 - - [15/Apr/2026 16:24:19] "GET / HTTP/1.1" 200 -
+2026-04-15 16:24:19,458 - INFO - 127.0.0.1 - - [15/Apr/2026 16:24:19] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2026-04-15 16:24:28,908 - INFO - 127.0.0.1 - - [15/Apr/2026 16:24:28] "GET / HTTP/1.1" 200 -
+2026-04-15 16:24:28,930 - INFO - 127.0.0.1 - - [15/Apr/2026 16:24:28] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2026-04-15 16:24:28,959 - INFO - 127.0.0.1 - - [15/Apr/2026 16:24:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-15 16:24:50,055 - INFO - 127.0.0.1 - - [15/Apr/2026 16:24:50] "GET / HTTP/1.1" 200 -
+2026-04-15 16:24:50,086 - INFO - 127.0.0.1 - - [15/Apr/2026 16:24:50] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2026-04-15 16:24:51,943 - INFO - 127.0.0.1 - - [15/Apr/2026 16:24:51] "GET /registro HTTP/1.1" 200 -
+2026-04-15 16:24:51,954 - INFO - 127.0.0.1 - - [15/Apr/2026 16:24:51] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2026-04-15 16:25:20,052 - INFO - 127.0.0.1 - - [15/Apr/2026 16:25:20] "GET / HTTP/1.1" 200 -
+2026-04-15 16:25:20,066 - INFO - 127.0.0.1 - - [15/Apr/2026 16:25:20] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
