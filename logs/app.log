@@ -543,3 +543,28 @@
 2026-04-16 09:54:25,543 - INFO - 127.0.0.1 - - [16/Apr/2026 09:54:25] "[32mGET /logout HTTP/1.1[0m" 302 -
 2026-04-16 09:54:25,553 - INFO - 127.0.0.1 - - [16/Apr/2026 09:54:25] "GET / HTTP/1.1" 200 -
 2026-04-16 09:54:25,582 - INFO - 127.0.0.1 - - [16/Apr/2026 09:54:25] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-04-16 10:34:10,387 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-16 10:34:10,387 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-16 10:34:10,388 - INFO -  * Restarting with stat
+2026-04-16 10:34:11,183 - WARNING -  * Debugger is active!
+2026-04-16 10:34:11,185 - INFO -  * Debugger PIN: 145-980-433
+2026-04-16 10:34:13,782 - INFO - 127.0.0.1 - - [16/Apr/2026 10:34:13] "GET / HTTP/1.1" 200 -
+2026-04-16 10:34:13,823 - INFO - 127.0.0.1 - - [16/Apr/2026 10:34:13] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-04-16 10:34:16,197 - INFO - 127.0.0.1 - - [16/Apr/2026 10:34:16] "GET /auth/login HTTP/1.1" 200 -
+2026-04-16 10:34:16,219 - INFO - 127.0.0.1 - - [16/Apr/2026 10:34:16] "GET /static/css/login_style.css HTTP/1.1" 200 -
+2026-04-16 10:34:16,234 - INFO - 127.0.0.1 - - [16/Apr/2026 10:34:16] "GET /static/js/auth.js HTTP/1.1" 200 -
+2026-04-16 10:34:22,502 - INFO - 127.0.0.1 - - [16/Apr/2026 10:34:22] "[32mPOST /auth/login HTTP/1.1[0m" 302 -
+2026-04-16 10:34:22,509 - INFO - 127.0.0.1 - - [16/Apr/2026 10:34:22] "GET /interfaz_tiempo HTTP/1.1" 200 -
+2026-04-16 10:34:22,525 - INFO - 127.0.0.1 - - [16/Apr/2026 10:34:22] "[36mGET /static/css/tiempo_style.css HTTP/1.1[0m" 304 -
+2026-04-16 10:34:22,526 - INFO - 127.0.0.1 - - [16/Apr/2026 10:34:22] "[36mGET /static/js/weather.js HTTP/1.1[0m" 304 -
+2026-04-16 10:34:25,131 - INFO - 127.0.0.1 - - [16/Apr/2026 10:34:25] "GET /consulta HTTP/1.1" 200 -
+2026-04-16 10:34:25,145 - INFO - 127.0.0.1 - - [16/Apr/2026 10:34:25] "[36mGET /static/css/consulta_style.css HTTP/1.1[0m" 304 -
+2026-04-16 10:34:30,270 - INFO - 127.0.0.1 - - [16/Apr/2026 10:34:30] "GET /interfaz_tiempo HTTP/1.1" 200 -
+2026-04-16 10:34:30,283 - INFO - 127.0.0.1 - - [16/Apr/2026 10:34:30] "[36mGET /static/css/tiempo_style.css HTTP/1.1[0m" 304 -
+2026-04-16 10:34:30,284 - INFO - 127.0.0.1 - - [16/Apr/2026 10:34:30] "[36mGET /static/js/weather.js HTTP/1.1[0m" 304 -
+2026-04-16 10:34:31,756 - INFO - 127.0.0.1 - - [16/Apr/2026 10:34:31] "GET /consulta HTTP/1.1" 200 -
+2026-04-16 10:34:31,771 - INFO - 127.0.0.1 - - [16/Apr/2026 10:34:31] "[36mGET /static/css/consulta_style.css HTTP/1.1[0m" 304 -
+2026-04-16 10:34:34,927 - INFO - Consulta por zona: Centro -> 5 resultados
+2026-04-16 10:34:34,927 - INFO - 127.0.0.1 - - [16/Apr/2026 10:34:34] "POST /consulta HTTP/1.1" 200 -
+2026-04-16 10:34:34,940 - INFO - 127.0.0.1 - - [16/Apr/2026 10:34:34] "[36mGET /static/css/consulta_style.css HTTP/1.1[0m" 304 -
