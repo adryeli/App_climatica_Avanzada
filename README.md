@@ -158,10 +158,16 @@ logs/app.log
 
 ## 👩‍💻 Autor
 
-Helen
-Adriana 
-Leonardo
-Elizabeth
-Luis
+Elena Díaz - https://github.com/HelenDiMo
+
+Adriana - https://github.com/adrianaarang
+
+Leo - https://github.com/lermns
+
+Elizabeth - https://github.com/adryeli
+
+Luis - https://github.com/luiselallali18-hub
+
+
 
 ---
